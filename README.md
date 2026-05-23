@@ -103,7 +103,7 @@ Seeking an opportunity as a SAP CPI / Integration Developer to apply integration
 > Replace the links below with your actual profile links.
 
 - LinkedIn: https://www.linkedin.com/in/https://www.linkedin.com/in/kore-sai-ranga-213b10258l
-- GitHub: https://github.com/
+- GitHub: https://github.com/KORE SAI RANGA
 
 ---
 
