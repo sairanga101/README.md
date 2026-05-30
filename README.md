@@ -49,7 +49,6 @@ Seeking an opportunity as a SAP CPI / Integration Developer to apply integration
 ## Tools
 - SAP Integration Suite
 - Postman
-- GitHub
 
 
 ---
